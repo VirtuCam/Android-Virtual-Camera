@@ -36,7 +36,7 @@ To run this Application, you will need the following :
 `Rooter phone`
 
 
-## 📸 ScreenShots
+## 📸 Screenshots
 
 | ![App Screenshot 1](https://i.imgur.com/6D1r9mb.jpeg) | ![App Screenshot 2](https://i.imgur.com/QgnIz1G.jpeg) |
 |:---:|:---:|
@@ -46,9 +46,9 @@ To run this Application, you will need the following :
 |:---:|:---:|
 | Screenshot 3 | Screenshot 4 |
 
-![App Screenshot 1](https://i.imgur.com/KqUNxnK.jpeg)
-|:---:|:---:|
-| Screenshot 5
+| ![App Screenshot 5](https://i.imgur.com/KqUNxnK.jpeg) | 
+|:---:|
+| Screenshot 5 |
 
 ## ⚙️ How to use
 
