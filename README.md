@@ -38,13 +38,17 @@ To run this Application, you will need the following :
 
 ## 📸 ScreenShots
 
-| ![App Screenshot 1](https://www.simpleimageresizer.com/_uploads/photos/d5f1f114/photo_2024-09-23_14-01-51_2_250x141.jpg) | ![App Screenshot 2](https://i.imgur.com/KqUNxnK.jpeg) |
+| ![App Screenshot 1](https://i.imgur.com/6D1r9mb.jpeg) | ![App Screenshot 2](https://i.imgur.com/QgnIz1G.jpeg) |
 |:---:|:---:|
 | Screenshot 1 | Screenshot 2 |
 
-| ![App Screenshot 3](https://www.simpleimageresizer.com/_uploads/photos/d5f1f114/photo_2024-09-23_14-13-03_250x141.jpg) | ![App Screenshot 4](https://www.simpleimageresizer.com/_uploads/photos/d5f1f114/photo_2024-09-23_14-13-05_250x141.jpg) |
+| ![App Screenshot 3](https://i.imgur.com/P4KySIC.jpeg) | ![App Screenshot 4](https://i.imgur.com/r3QA7tf.jpeg) |
 |:---:|:---:|
 | Screenshot 3 | Screenshot 4 |
+
+![App Screenshot 1](https://i.imgur.com/KqUNxnK.jpeg)
+|:---:|:---:|
+| Screenshot 5
 
 ## ⚙️ How to use
 
